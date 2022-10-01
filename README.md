@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvermete0r" alt="silvermete0r" /></a> </p>
-
 - 🔭 I’m currently working on [PushCode](https://pushcode.kz/)
 
 - 🌱 I’m currently learning **AI, ML & various Frameworks (Python & PHP)**
