@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">Software Engineering Student - Junior Backend Developer</h3>
+<h3 align="center">Software Engineering Student - Junior Backend Developer 🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://avatars.dzeninfra.ru/get-zen_doc/44645/pub_5ddbe087309e201f5e851314_5de69b05df944400b256ee5e/orig">
 
 - 🔭 I’m currently working on [PushCode](https://pushcode.kz/)
 
@@ -13,9 +15,7 @@
 
 - 📫 How to reach me **gregormelon.2003@gmail.com**
 
-- ⚡ Fun fact **"Creativity Solves Everything"**
-
-<img align="right" alt="Coding" width="400" src="https://avatars.dzeninfra.ru/get-zen_doc/44645/pub_5ddbe087309e201f5e851314_5de69b05df944400b256ee5e/orig">
+- ⚡ Lifestyle **"Creativity Solves Everything"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
