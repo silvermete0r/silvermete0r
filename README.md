@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://avatars.dzeninfra.ru/get-zen_doc/44645/pub_5ddbe087309e201f5e851314_5de69b05df944400b256ee5e/orig">
 
-- 🔭 I’m currently working on [OmenFlight AI](https://omenflight.kz/)
+- 🔭 I’m currently working on [My Portfolio Projects](https://github.com/silvermete0r?tab=repositories)
 
 - 🌱 I’m currently learning **AI, ML & various Frameworks (Python & PHP)**
 
-- 👯 I’m looking to collaborate on [Contester](https://contester.kz/)
+- 👯 I’m looking to collaborate on [Logitex](https://www.logitex.kz/)
 
 - 💬 Ask me about **C++, Python & PHP**
 
