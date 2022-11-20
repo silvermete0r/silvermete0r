@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [My Portfolio Projects](https://github.com/silvermete0r?tab=repositories)
 
-- 🌱 I’m currently learning **Java, Python & various Frameworks**
+- 🌱 I’m currently learning **Java, Python & Various Frameworks**
 
 - 👯 I’m looking to collaborate on [Logitex](https://www.logitex.kz/)
 
 - 💬 Ask me about **C++, Python & PHP**
 
-- 📫 How to reach me **gregormelon.2003@gmail.com**
+- 📫 How to reach me **supwithproject@gmail.com**
 
 - ⚡ Lifestyle **"Creativity Solves Everything"**
 
