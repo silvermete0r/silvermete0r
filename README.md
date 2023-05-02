@@ -5,17 +5,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🔭 I’m currently working on [PushCode](https://pushcode.kz/)
+- 🔭 I’m currently working on **[Trio ltd.](http://trio.kz/)**
 
-- 🌱 I’m currently learning **Java, Python & Various Frameworks**
-
-- 👯 I’m looking to collaborate on [Contester](http://contester.kz/)
+- ☁️ I'm interested in learning cloud technologies: **[Azure](https://azure.microsoft.com/)** & **[AWS](https://aws.amazon.com/)**
 
 - 💬 Ask me about **C++, Python & PHP**
 
 - 📫 How to reach me **supwithproject@gmail.com**
 
-- ⚡ Lifestyle **"Creativity Solves Everything"**
+- ♾️ *Lifelong Learning...*
 
 <h3 align="left">Languages and Tools:</h3>
 
