@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Trio ltd.](http://trio.kz/)**
 
-- ☁️ I'm interested in learning cloud technologies: **[Google Cloud](https://cloud.google.com/)**
+- ☁️ I'm interested in learning cloud technologies: **[MS Azure](https://azure.microsoft.com)**
 
 - 💬 Ask me about **C++, Python & PHP**
 
