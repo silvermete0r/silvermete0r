@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=82a1493bqje4089uit211pkonmj8ohjglvpgvqbz1agobev0&ep=v1_gifs_related&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on **[Dataflow](http://dataflow.kz)**
 
