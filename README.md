@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Scientific Researcher - Software Engineer 🛠️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"> <img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /> </a></p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
