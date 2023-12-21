@@ -41,3 +41,9 @@
 ![Silvermete0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvermete0r&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvermete0r" alt="silvermete0r" />
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/silvermete0r?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/silvermete0r?theme=unicorn&extension=activity)
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/discussion/light)
