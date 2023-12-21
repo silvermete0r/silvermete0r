@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Scientific Researcher - Software Engineer 🛠️</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"> <img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /> </a></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
+  <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
+  <a href="https://www.kaggle.com/armanzhalgasbayev"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/armanzhalgasbayev" alt="silvermete0r" /></a> &nbsp 
+  <a href="https://leetcode.com/silvermete0r/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsilvermete0r&logo=leetcode&logoColor=yellow" alt="silvermete0r" /></a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
@@ -41,7 +46,7 @@
 ![Silvermete0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvermete0r&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvermete0r" alt="silvermete0r" />
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/silvermete0r?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/silvermete0r?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/silvermete0r?theme=light&extension=activity)](https://leetcard.jacoblin.cool/silvermete0r?theme=light&extension=activity)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/armanzhalgasbayev/dataset/light)
