@@ -4,8 +4,9 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
   <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
+  <a href="https://dataflow.kz/"><img src="https://img.shields.io/badge/Powered%20by-Dataflow-line.svg" alt="dataflow" /></a> &nbsp 
   <a href="https://www.kaggle.com/armanzhalgasbayev"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/armanzhalgasbayev" alt="silvermete0r" /></a> &nbsp 
-  <a href="https://leetcode.com/silvermete0r/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsilvermete0r&logo=leetcode&logoColor=yellow" alt="silvermete0r" /></a>
+  <a href="https://leetcode.com/silvermete0r/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsilvermete0r&logo=leetcode&logoColor=yellow" alt="silvermete0r" /></a> &nbsp
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
