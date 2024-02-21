@@ -6,7 +6,7 @@
   <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
   <a href="https://dataflow.kz/"><img src="https://img.shields.io/badge/Powered%20by-Dataflow-line.svg" alt="dataflow" /></a> &nbsp 
   <a href="https://leetcode.com/silvermete0r/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsilvermete0r&logo=leetcode&logoColor=yellow" alt="silvermete0r" /></a> &nbsp
-  <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
+  <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
