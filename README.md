@@ -9,7 +9,7 @@
   <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
 </p>
 
-<img align="right" alt="Life Formula" width="400" src="https://pbs.twimg.com/media/FUY96jtWQAATBX8.jpg:large">
+<img align="right" alt="Life Formula" width="400" src="https://sun9-6.userapi.com/impg/hWK46LyzFm3BE8yoK5tEj6_s-Qchnv8kdshGPA/7CihZ-nDOIA.jpg?size=646x321&quality=95&sign=4f5bed68d5417dc550b4c6e5aa3c52d6&type=album">
 
 - 🔭 I’m currently working on **[Dataflow](http://dataflow.kz)**
 
