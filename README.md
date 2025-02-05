@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">Scientific Researcher - Software Engineer 🛠️</h3>
+<h3 align="center">Research and Development Engineer 🛠️</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
