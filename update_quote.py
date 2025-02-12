@@ -26,7 +26,7 @@ with open(README_FILE, "w", encoding="utf-8") as file:
         if line.strip() == START_MARKER:
             inside_quote_section = True
             file.write(line)
-            file.write(f"\n> \"{random_quote}\"\n>\n> — *{random_author}*\n\n")  # Markdown formatted
+            file.write(f'\n> "{random_quote}" © *{random_author}*\n\n')  # Matches your format
         elif line.strip() == END_MARKER:
             inside_quote_section = False
             file.write(line)
