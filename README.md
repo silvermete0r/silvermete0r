@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Research and Development Engineer 🛠️</h3>
 
-<!-- QUOTES_START -->
-
-> "Do what you can, with what you have, where you are."
-
-<!-- QUOTES_END -->
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
   <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
@@ -14,6 +8,12 @@
   <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-Problem_Solver-ffa116?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fsilvermete0r%2F">
   <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
 </p>
+
+**Daily Quote:**
+
+<!-- QUOTES_START -->
+> "Placeholder quote (this will be updated)" © *Placeholder Author*
+<!-- QUOTES_END -->
 
 <img align="right" alt="Life Formula" width="400" src="https://sun9-6.userapi.com/impg/hWK46LyzFm3BE8yoK5tEj6_s-Qchnv8kdshGPA/7CihZ-nDOIA.jpg?size=646x321&quality=95&sign=4f5bed68d5417dc550b4c6e5aa3c52d6&type=album">
 
