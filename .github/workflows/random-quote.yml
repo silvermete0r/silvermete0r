@@ -18,9 +18,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install json5  # If using JSON5 format (optional)
+
       - name: Extract and Update Random Quote
-        run: |
-          python update_quote.py
+        run: python update_quote.py
 
       - name: Commit and Push Changes
         run: |
