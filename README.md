@@ -2,9 +2,9 @@
 <h3 align="center">Research and Development Engineer 🛠️</h3>
 
 <!-- QUOTES_START -->
-"The only limit to our realization of tomorrow is our doubts of today."
-"Success is not final, failure is not fatal: It is the courage to continue that counts."
-"Do what you can, with what you have, where you are."
+
+> "Do what you can, with what you have, where you are."
+
 <!-- QUOTES_END -->
 
 <p align="center"> 
