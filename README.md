@@ -13,7 +13,7 @@
 
 <!-- QUOTES_START -->
 
-> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
+> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
 
 <!-- QUOTES_END -->
 
