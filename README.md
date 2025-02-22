@@ -13,7 +13,7 @@
 
 <!-- QUOTES_START -->
 
-> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
+> "The best way to predict the future is to create it." © *Peter Drucker*
 
 <!-- QUOTES_END -->
 
