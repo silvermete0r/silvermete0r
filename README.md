@@ -13,7 +13,7 @@
 
 <!-- QUOTES_START -->
 
-> "A problem is a chance for you to do your best." © *Duke Ellington*
+> "The best way to predict the future is to create it." © *Peter Drucker*
 
 <!-- QUOTES_END -->
 
