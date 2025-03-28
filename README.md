@@ -14,7 +14,7 @@
 
 <!-- QUOTES_START -->
 
-> "Always deliver more than expected." © *Larry Page*
+> "The best way to predict the future is to create it." © *Peter Drucker*
 
 <!-- QUOTES_END -->
 
