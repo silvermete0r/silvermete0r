@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **[Dataflow](http://dataflow.kz)**
 
-- ☁️ I'm interested in learning cloud technologies: **[AWS Cloud](https://aws.amazon.com/)**
+- ⏳ I'm interested in learning: **[Time Series Forecasting](https://www.kaggle.com/learn/time-series)**
 
 - 💬 Ask me about **C++ & Python**
 
