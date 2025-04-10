@@ -53,6 +53,9 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
 </a>
+<a href="https://github.com/silvermete0r/oikan" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/silvermete0r/oikan/main/docs/media/oikan_logo.png" alt="OIKAN" width="40" height="40"/>
+</a>
 </p>
 
 ![Silvermete0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvermete0r\&show_icons=true) 
