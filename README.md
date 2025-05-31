@@ -14,7 +14,7 @@
 
 <!-- QUOTES_START -->
 
-> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
+> "The future depends on what you do today." © *Mahatma Gandhi*
 
 <!-- QUOTES_END -->
 
