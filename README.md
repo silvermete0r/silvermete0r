@@ -4,7 +4,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
   <a href="https://user-badge.committers.top/kazakhstan/silvermete0r"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
-  <a href="https://dataflow.kz/"><img src="https://img.shields.io/badge/Powered%20by-Dataflow-line.svg" alt="dataflow" /></a> &nbsp 
+  <a href="https://dataflow-blog.vercel.app"><img src="https://img.shields.io/badge/Powered%20by-Dataflow-line.svg" alt="dataflow" /></a> &nbsp 
   <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-Problem_Solver-ffa116?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fsilvermete0r%2F">
   <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.1247b1b5b9cd95e98d7ff7438207406f.label&prefix=Rank%20&style=plastic&label=%F0%9F%9A%80%20DeepML&color=0d6efd&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard" alt="DeepML mr. Arman (梦想)"> &nbsp
