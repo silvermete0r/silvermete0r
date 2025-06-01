@@ -14,7 +14,7 @@
 
 <!-- QUOTES_START -->
 
-> "The future depends on what you do today." © *Mahatma Gandhi*
+> "The best way to predict the future is to create it." © *Peter Drucker*
 
 <!-- QUOTES_END -->
 
