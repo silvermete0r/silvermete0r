@@ -14,7 +14,7 @@
 
 <!-- QUOTES_START -->
 
-> "A problem is a chance for you to do your best." © *Duke Ellington*
+> "Always deliver more than expected." © *Larry Page*
 
 <!-- QUOTES_END -->
 
