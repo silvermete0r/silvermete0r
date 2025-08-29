@@ -14,7 +14,7 @@
 
 <!-- QUOTES_START -->
 
-> "Always deliver more than expected." © *Larry Page*
+> "Skills speak louder than words." © *HackerRank*
 
 <!-- QUOTES_END -->
 
