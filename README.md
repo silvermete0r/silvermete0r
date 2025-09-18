@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "Skills speak louder than words." © *HackerRank*
+> "The future depends on what you do today." © *Mahatma Gandhi*
 
 <!-- QUOTES_END -->
 
