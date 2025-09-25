@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "The future depends on what you do today." © *Mahatma Gandhi*
+> "Always deliver more than expected." © *Larry Page*
 
 <!-- QUOTES_END -->
 
