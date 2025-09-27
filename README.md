@@ -36,7 +36,6 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" alt="streamlit" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -59,5 +58,3 @@
 </p>
 
 ![Silvermete0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvermete0r\&show_icons=true) 
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/silvermete0r?theme=light&extension=activity)](https://leetcard.jacoblin.cool/silvermete0r?theme=light&extension=activity)
