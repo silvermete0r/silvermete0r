@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
+> "A problem is a chance for you to do your best." © *Duke Ellington*
 
 <!-- QUOTES_END -->
 
