@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "The best way to predict the future is to create it." © *Peter Drucker*
+> "Skills speak louder than words." © *HackerRank*
 
 <!-- QUOTES_END -->
 
