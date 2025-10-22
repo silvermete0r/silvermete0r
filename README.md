@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "Skills speak louder than words." © *HackerRank*
+> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
 
 <!-- QUOTES_END -->
 
