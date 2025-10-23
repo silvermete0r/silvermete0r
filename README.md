@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
+> "The best way to predict the future is to create it." © *Peter Drucker*
 
 <!-- QUOTES_END -->
 
