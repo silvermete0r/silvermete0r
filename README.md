@@ -15,7 +15,7 @@
 
 <!-- QUOTES_START -->
 
-> "The future depends on what you do today." © *Mahatma Gandhi*
+> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
 
 <!-- QUOTES_END -->
 
