@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "Skills speak louder than words." © *HackerRank*
+> "A problem is a chance for you to do your best." © *Duke Ellington*
 
 <!-- QUOTES_END -->
 
