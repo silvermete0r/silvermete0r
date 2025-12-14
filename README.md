@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "Skills speak louder than words." © *HackerRank*
+> "The future depends on what you do today." © *Mahatma Gandhi*
 
 <!-- QUOTES_END -->
 
