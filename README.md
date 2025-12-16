@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
+> "Skills speak louder than words." © *HackerRank*
 
 <!-- QUOTES_END -->
 
