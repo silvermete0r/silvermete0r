@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "Always deliver more than expected." © *Larry Page*
+> "The future depends on what you do today." © *Mahatma Gandhi*
 
 <!-- QUOTES_END -->
 
