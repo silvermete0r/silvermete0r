@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The future depends on what you do today." © *Mahatma Gandhi*
+> "A problem is a chance for you to do your best." © *Duke Ellington*
 
 <!-- QUOTES_END -->
 
