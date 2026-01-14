@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The best way to predict the future is to create it." © *Peter Drucker*
+> "A problem is a chance for you to do your best." © *Duke Ellington*
 
 <!-- QUOTES_END -->
 
