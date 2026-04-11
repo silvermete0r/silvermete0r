@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
+> "Skills speak louder than words." © *HackerRank*
 
 <!-- QUOTES_END -->
 
