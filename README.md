@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "A problem is a chance for you to do your best." © *Duke Ellington*
+> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
 
 <!-- QUOTES_END -->
 
