@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "Always deliver more than expected." © *Larry Page*
+> "A problem is a chance for you to do your best." © *Duke Ellington*
 
 <!-- QUOTES_END -->
 
