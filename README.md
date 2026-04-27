@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The best way to predict the future is to create it." © *Peter Drucker*
+> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
 
 <!-- QUOTES_END -->
 
