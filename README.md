@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The best way to predict the future is to create it." © *Peter Drucker*
+> "The future depends on what you do today." © *Mahatma Gandhi*
 
 <!-- QUOTES_END -->
 
