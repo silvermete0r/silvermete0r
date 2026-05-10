@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "A problem is a chance for you to do your best." © *Duke Ellington*
+> "Don't wait for the perfect moment, take the moment and make it perfect." © *Zoey Sayward*
 
 <!-- QUOTES_END -->
 
