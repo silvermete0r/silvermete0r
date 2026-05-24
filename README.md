@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 <!-- QUOTES_START -->
 
-> "The best way to predict the future is to create it." © *Peter Drucker*
+> "The best developers are not who know everything, but those who never stop learning." © *HackerRank*
 
 <!-- QUOTES_END -->
 
