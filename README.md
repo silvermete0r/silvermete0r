@@ -4,8 +4,6 @@
   <img alt="Kaggle Badge" src="https://img.shields.io/badge/Kaggle-Expert-651fff?style=flat&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Farmanzhalgasbayev"> &nbsp
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20DeepML-arman-plastic?style=plastic&color=9407f2&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard" alt="DeepML arman"> &nbsp
   <img alt="LeetCode Badge" src="https://img.shields.io/badge/LeetCode-@silvermete0r-ffa116?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fsilvermete0r%2F"> &nbsp
-  <img src="https://komarev.com/ghpvc/?username=silvermete0r&label=Profile%20views&color=0e75b6&style=flat" alt="silvermete0r" /> &nbsp 
-  <a href="https://user-badge.committers.top/kazakhstan/silvermete0r" target="_blank"><img src="https://user-badge.committers.top/kazakhstan/silvermete0r.svg" alt="silvermete0r" /></a> &nbsp 
 </p>
 
 ```python
